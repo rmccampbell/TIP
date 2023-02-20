@@ -1,0 +1,10 @@
+f(x) {
+	return x;
+}
+
+main() {
+	var a, b;
+	a = f(3);
+	b = f(alloc 3);
+	return 0;
+}

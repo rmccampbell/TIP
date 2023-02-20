@@ -1,0 +1,11 @@
+f() {
+	return g;
+}
+
+g() {
+	return 3;
+}
+
+main() {
+	return (f())();
+}

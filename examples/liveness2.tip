@@ -1,0 +1,10 @@
+main() {
+    var x,y,z;
+    x = 3;
+    y = 4;
+    y = x;
+    y = 5;
+    y = y;
+    z = 6;
+    return y;
+}

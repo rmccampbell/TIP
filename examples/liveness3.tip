@@ -1,0 +1,9 @@
+main() {
+    var x,y;
+    x = input;
+    y = input;
+    if (y) {
+    	output x;
+    }
+    return 0;
+}
